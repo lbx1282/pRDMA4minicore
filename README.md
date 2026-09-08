@@ -34,7 +34,7 @@ export PATH=$PATH:$RISCV/bin
 Verify Installation
 
 ~~~bash
-riscv64-unknow-elf-gcc --version
+riscv64-unknown-elf-gcc --version
 ~~~
 
 ## Compiling RISC-V Programs
